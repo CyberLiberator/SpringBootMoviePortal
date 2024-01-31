@@ -34,7 +34,7 @@ A dynamic movie portal built with Spring Boot, ThymeLeaf, Bootstrap, and Maven i
 
 ## Contributing
 
-	  Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests.
+Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests.
 
 ### Acknowledgements
 
