@@ -1,4 +1,4 @@
-### Dynamic Movie Portal
+# Dynamic Movie Portal
 
 A dynamic movie portal built with Spring Boot, ThymeLeaf, Bootstrap, and Maven integration. It provides users with a user-friendly interface for browsing and exploring movies.
 
